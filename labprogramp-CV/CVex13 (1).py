@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture(r"C:\Users\mothi\Documents\video.mp4")
+cap = cv2.VideoCapture(r"C:\Users\gunal\Downloads\CVEXP6EXAMPLE.mp4")
 
 while True:
     ret, frame = cap.read()
